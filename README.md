@@ -2,6 +2,9 @@
 
 Este código JavaScript muestra un ejemplo de cómo obtener y mostrar datos de personajes utilizando la API de Star Wars (SWAPI). A continuación, se describen las funciones y eventos principales utilizados en el código:
 
+![Vista Desktop de la página](/assets/img/Muestra.jpg)
+
+
 1. Obtener referencias a los elementos HTML relevantes:
    - `card1`, `card2`, `card3`: Obtiene las referencias a los elementos de tarjeta con los IDs 'card-1', 'card-2' y 'card-3', respectivamente.
    - `resultDiv`: Obtiene la referencia al elemento de div con el ID 'result'.
